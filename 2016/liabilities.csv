@@ -1,0 +1,17 @@
+#,creditor name,type,amount,year incurred,rate,term
+1,Ladder Capital Finance LLC,Trump Tower Commercial LLC - mortgage,"Over $50,000,000",2012,4.20%,Matures in 2022
+2,Ladder Capital Finance I LLC (*),40 Wall Street LLC-loan,"Over $50,000,000",2015,3.67%,Matures in 2025
+3,Deutsche Bank Trust Company Americas,Trump National Doral - mortgage,"Over $50,000,000",2012,LIBOR + 1.75% or Prime minus .75%,Matures in 2023
+4,Deutsche Bank Trust Company Americas,Trump National Doral - mortgage,"$5,000,001 - $25,000,000",2012,LIBOR + 1.75% or Prime minus .75%,Matures in 2023
+5,"The Bank of New York Mellon Trust Company N.A., as trustee",Fifty-Seventh Street Associates LLC-issuer of secured lease bonds,"$5,000,001 - $25,000,000",1996,7.13%,Matures in 2017
+6,Investors Savings Bank,Trump Park Avenue LLC - mortgage,"$5,000,001 - $25,000,000",2010,3.25%,Matures in 2020
+7,Ladder Capital Finance LLC,Trump Plaza LLC - mortgage,"$5,000,001 - $25,000,000",2014,3.85%,Matures in 2024
+8,Amboy Bank,Trump National Golf Club Colts Neck LLC - mortgage,"$5,000,001 - $25,000,000",2008,5.25%,Matures in 2028
+9,"Chevy Chase Trust Holdings, Inc. as successor in interest to Bondy Way",Trump National Golf Club Washington DC LLC - mortgage,"$5,000,001 - $25,000,000",2009,5.50%,Matures in 2029
+10,Royal Bank America,Seven Springs - mortgage,"$5,000,001 - $25,000,000",2000,4.00%,Matures in 2019
+11,UBS Real Estate Investments Inc.,TfHT Commercial LLC- mortgage,"$5,000,001 - $25,000,000",2006,6.18%,Matures in 2016
+12,Merrill Lynch Credit Corporation,1094 S Ocean Blvd - mortgage,"$250,001 - $500,000",1994,Six month LIBOR + 1.50%,Matures in 2019
+13,Merrill Lynch Credit Corporation,124 Woodbridge Road - mortgage,"$100,001 - $250,000",1993,Six month LIBOR + 1.75%,Matures in 2019
+14,Chicago Unit Acquisition LLC,TIHT Chicago - springing loan,"Over $50,000,000",2012,Prime + 5%,Springing loan
+15,Deutsche Bank Trust Company Americas,TIHT Chicago - term loan,"$25,000,001 - $50,000,000",2012,LIBOR + 2.00% or Prime minus .50%,Matures in 2024
+16,Deutsche Bank Trust Company Americas,Trump Old Post Office loan,"Over $50,000,000",2015,LIBOR or Prime + 2%,Matures in 2024

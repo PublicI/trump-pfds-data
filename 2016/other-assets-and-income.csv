@@ -1,0 +1,375 @@
+#,description,eif,,income-type,income-amount
+1,BLACKROCK'S OBSIDIAN FUND,Y,"$25,000,001 - $50,000,000 ","Interest, Dividends, Capital Gain","$1,000,001 - $5,000,000"
+2,BARON ASSET FUND,Y,"None (or less than $1,001)",Capital gain,"$100,001 - $1,000,000"
+3,BARON SMALL CAP FUND,Y,"None (or less than $1,001)",Capital gain,"$100,001 - $1,000,000"
+4,BARON OPPORTUNITY FUND,Y,"None (or less than $1,001)",Capital gain,"$100,001 - $1,000,000"
+5,BARON FOCUSED GROWTH FUND,Y,"None (or less than $1,001)",Capital gain,"$100,001 - $1,000,000"
+6,BARON INTERNATIONAL GROWTH FUND,Y,"None (or less than $1,001)",Capital gain,"$100,001 - $1 ,000,000"
+7,BARON REAL ESTATE FUND,Y,"None (or less than $1,001)","Dividends, Capital Gain","$100,001 - $1,000,000"
+8,BARON EMERGING MARKETS FUND INST,Y,"None (or less than $1,001)",,None (or less than $201)
+9,BARON ENERY AND RESOURCES FUND,Y,"None (or less than $1,001)",,None (or less than $201)
+10,BARON EMERGING MARKETS FUND RETAIL,Y,"None (or less than $1,001)",Capital gain,"$50,001 - $100,000"
+11,BARON GROWTH FUND,Y,"None (or less than $1,001)","Dividends, Capital Gain","$100,001 - $1,000,000"
+12,BARON PARTNERS FUND,Y,"None (or less than $1,001)","Dividends, Capital Gain","$100,001 - $1,000,000"
+13, AG DIVERSIFIED CREDIT STRATEGIES FUND LP (ANGELO GORDON),Y,"$1,000,001 - $5,000,000 ",,None (or less than $201)
+14,AG ELEVEN PARTNERS LP (ANGELO GORDON),Y,"$1,000,001 - $5,000,000 ","Interest, Dividends, Capital Gain","$100,001 - $1,000,000"
+15,PAULSON CREDIT OPPORTUNITIES LP,Y,"$1,000,001 - $5,000,000","Interest, Dividends, Capital Gain","$100,001 - $1,000,000"
+16,PAULSON ADVANTAGE PLUS LP,Y,"$1,000,001 - $5,000,000 ","Interest, Dividends, Capital Gain","$50,001 - $100,000"
+17,PAULSON PARTNERS LP,Y,"$1,000,001 - $5,000,000","Interest, Dividends, Capital Gain","$100,001 - $1,000,000"
+18,MIDOCEAN CREDIT OPPORTUNITY FUND LP (MIDOCEAN CREDIT PARTNERS),Y,"$1,000,001 - $5,000,000 ","Interest, Dividends","$15,001 - $50,000"
+19,JP MORGAN CHASE - CHECKING AND SAVINGS ACCOUNTS,N/A,"$1,000,001 - $5,000,000 ",Interest,"$2,501 - $5,000"
+20,CAPITAL ONE BANK - CHECKING AND SAVINGS,N/A,"$5,000,001 - $25,000,000",Interest,"$50,001 - $100,000"
+21,CITIBANK- SAVINGS,N/A,"$1,001 - $15,000",Interest,"$201 - $1,000"
+22,ONEWEST BANK -MONEY MARKET,N/A,"$15,001 - $50,000",,None (or less than $201)
+23,SIGNATURE BANK -CHECKING,N/A,"$100,001 - $250,000",Interest,"$1,001 - $2,500"
+24,"BANK UNITED, NA - MONEY MARKET",N/A,"$100,001 - $250,000",Interest,"$5,001 - $15,000"
+25,FIRST REPUBLIC BANK- CHECKING,N/A,"$15,001 - $50,000",Interest ,None (or less than $201)
+26,INVESTMENT IN GOLD,N/A,"$100,001 - $250,000",,None (or less than $201)
+27,WMTMF LLC (US BANK CASH ACCOUNT),N/A,"$15,001 - $50,000",,None (or less than $201)
+,BARCLAYS BANK - BROKERAGE ACCOUNT - HOLDINGS,,,,
+1,ALLIANZ SE SPONSORED,N/A,"$1,001 - $15,000 ",,None (or less than $201)
+2,AT&T INC,N/A,"$1,001 - $15,000 ","Dividends, Capital Gain","$1,001 - $2,500"
+3,BHP BILLITON PLC,N/A,"$1,001 - $15,000 ",Dividends,"$201 - $1,000"
+4,CENTURYLINK INC,N/A,"$1,001 - $15,000 ",Dividends,"$201 - $1,000"
+5,CITIGROUP INC NEW,N/A,"$1,001 - $15,000 ",Dividends ,None (or less than $201)
+6,CONOCOPHILLIPS,N/A,"$1,001 - $15,000 ",Dividends,"$201 - $1,000"
+7,FREEPORT MCMORAN INC,N/A,"$1,001 - $15,000 ",Dividends,"$201 - $1,000"
+8,GENERAL ELECTRIC COMPANY,N/A,"$1,001 - $15,000 "," Dividends, Capital Gain","$201 - $1,000"
+9,GLAXOSMITHKLINE PLC,N/A,"$1,001 - $15,000 ",,None (or less than $201)
+10,HALLIBURTON COMPANY,N/A,"$1,001 - $15,000 ",Dividends  ,"$201 - $1,000"
+11,INTERNATIONAL PAPER,N/A,"$1,001 - $15,000 ",Dividends ,"$201 - $1,000"
+12,KINDER MORGAN INC DE,N/A,"$1,001 - $15,000 ",,None (or less than $201)
+13,METLIFE INC,N/A,"$1,001 - $15,000 ",,None (or less than $201)
+14,ORANGE SPONS ADR,N/A,"$1,001 - $15,000 ",Dividends,"$201 - $1,000"
+15,PFIZER INC,N/A,"$1,001 - $15,000 ",,None (or less than $201)
+16,PRUDENTIAL FINANCIAL INC,N/A,"$1,001 - $15,000 ",Dividends ,"$201 - $1,000"
+17,RAYTHEON COMPANY NEW,N/A,"$1,001 - $15,000 ","Dividends, Capital Gain ","$1,001 - $2,500"
+18,ROYAL DUTCH SHELL PLC,N/A,"$1,001 - $15,000 ",Dividends,"$1,001 - $2,500"
+19,SWISS RE LTD,N/A,"$1,001 - $15,000 ",Dividends,"$201 - $1,000"
+20,TELENOR ASA,N/A,"$1,001 - $15,000 ",Dividends,None (or less than $201)
+21,TOTALS A,N/A,"$1,001 - $15,000 ",Dividends,"$201 - $1,000"
+22,VANGUARD HIGH Dividend Yield ETF,Y,"$1,001 - $15,000 ",Dividends ,"$201 - $1,000"
+23,VERIZON COMMUNICATIONS,N/A,"$1,001 - $15,000 ",Dividends,"$201 - $1,000"
+24,WAL-MART STORES INC,N/A,"$1,001 - $15,000 ",Dividends,"$201 - $1,000"
+25,AGRIUM INC COM,NJA,"None (or less than $1,001)","Dividends, Capital Gain ","$201 - $1,000"
+26,VALERO ENERGY CORP,N/A,"None (or less than $1,001)","Dividends,Capital Gain ","$2,501 - $5,000"
+,OPPENHEIMER-BROKERAGE ACCOUNT - HOLDINGS,,,,
+1,KINDER MORGAN INC DE,N/A,"$1,001 - $15,000 ",,None (or less than $201)
+2,ENERGY TRANSFER PARTNERS LP,Y,"$15,001 - $50,000",,None (or less than $201)
+3,ADVANTAGE BANK DEPOSIT,N/A,"$15,001 - $50,000",,None (or less than $201)
+4,"ADVANTAGE ADVISORS XANTHUS FUND, LLC",Y,"$1,000,001 - $5,000,000","Ordinary Income, Capital Gain","$15,001 - $50,000"
+5,AT&T INC,N/A,"None (or less than $1,001)","Dividends, Capital Gain","$100,001 - $1,000,000"
+6,DEERE & CO,N/A,"None (or less than $1,001)","Dividends, Capital Gain","$15,001 - $50,000"
+7,PFIZER INC,N/A,"None (or less than $1,001)","Dividends, Capital Gain","$5,001 - $15,000"
+8,WASTE MGMT INC DEL,N/A,"None (or less than $1,001)","Dividends, Capital Gain","$100,001 - $1,000,000"
+9,ALTRIA GROUP INC,N/A,"None (or less than $1,001)","Dividends, Capital Gain","$100,001 - $1,000,000"
+10,AMGEN INC,N/A,"None (or less than $1,001)","Dividends, Capital Gain","$50,001 - $100,000"
+11,APPLE INC,N/A,"None (or less than $1,001)","Dividends, Capital Gain","$100,001 - $1,000,000"
+12,BRISTOL MYERS SQUIBB CO,N/A,"None (or less than $1,001)","Dividends, Capital Gain","$100,001 - $1,000,000"
+13,GENERAL MLS INC,N/A,"None (or less than $1,001)","Dividends, Capital Gain","$5,001 - $15,000"
+14,GILEAD SCIENCES INC,N/A,"None (or less than $1,001)","Dividends, Capital Gain","$100,001 - $1,000,000"
+15,JPMORGAN CHASE & CO COM,N/A,"None (or less than $1,001)","Dividends, Capital Gain","$100,001 - $1,000,000"
+16,MASTERCARD INC,N/A,"None (or less than $1,001)","Dividends, Capital Gain","$201 - $1,000"
+17,PHILIP MORRIS INTL INC,N/A,"None (or less than $1,001)","Dividends, Capital Gain","$5,001 - $15,000"
+18,REGENERON PHARMACEUTICALS,N/A,"None (or less than $1,001)",Capital Gain,"$50,001 - $100,000"
+19,UNITED PARCEL SERVICE INC CL B,N/A,"None (or less than $1,001)","Dividends, Capital Gain","$15,001 - $50,000"
+20,VERIZON COMMUNICATIONS INC,N/A,"None (or less than $1,001)","Dividends,Capital Gain","$100,001 - $1,000,000"
+21,WELLS FARGO & CO NEW,N/A,"None (or less than $1,001)","Dividends,Capital Gain","$50,001 - $100,000"
+22,YAHOO INC,N/A,"None (or less than $1,001)",Capital Gain,"$50,001 - $100,000"
+23,VISA INC,N/A,"None (or less than $1,001)","Dividends, Capital Gain","$100,001 - $1,000,000"
+,DEUTSCHE ASSET & WEALT H MANAGEMENT A/C 1,,,,
+,BROKERAGE ACCT - HOLDINGS,,,,
+1,MONEY MARKET DEPOSIT ACCOUNT,N/A,"$50,001 - $100,000",Interest,"$201 - $1,000"
+2,ADVANCE AUTO PTS INC COM,N/A,"$15,001 - $50,000",,None (or less than $201)
+3,ALPHABET INC COM CL A,N/A,"$50,001 - $100,000",,None (or less than $201)
+4,ALPHABET INC COM CL C,N/A,"$50,001 - $100,000",,None (or less than $201)
+5,AMAZON COM INC COM,N/A,"$50,001 - $100,000",,None (or less than $201)
+6,AMERICAN WATER WORKS COM,N/A,"$15,001 - $50,000",Dividends,"$201 - $1,000"
+7,AMERIPRISE FINANCIAL INC COM,N/A,"$50,001 - $100,000",Dividends,"$2,501 - $5,000"
+8,AMETEK INC NEW COM,N/A,"$50,001 - $100,000",Dividends,"$201 - $1,000"
+9,APPLE I NC COM,N/A,"$100,001 - $250,000",Dividends,"$2,501 - $5,000"
+10,APPLE INC BOND,N/A,"None (or less than $1,001)",Interest,"$2,501 - $5,000"
+11,BOEING CO COM,N/A,"$50,001 - $100,000",Dividends,"$1,001 - $2,500"
+12,BORG WARNER INC COM,N/A,"$15,001 - $50,000",Dividends,"$201 - $1,000"
+13,BRINKER INTL INC COM,N/A,"$1,001 - $15,000",,None (or less than $201)
+14,BROADCOM LIMITED COM,N/A,"$15,001 - $50,000",,None (or less than $201)
+15,CELGENE CORP COM,N/A,"$100,001 - $250,000",,None (or less than $201)
+16,CHEVRON CORP COM,N/A,"$50,001 - $100,000",Dividends,"$2,501 - $5,000"
+17,CISCO SYS INC COM,N/A,"$15,001 - $50,000 ",Dividends,"$201 - $1,000"
+18,CITIGROUP INC COM,N/A,"$50,001 - $100,000 ",Dividends,"$201 - $1,000"
+19,CITIGROUP INC BOND,N/A,"None (or less than $1,001)",Interest,"$2,501 - $5,000"
+20,COGNIZANT TECH SOLUTIONS CORP CL A,N/A,"$15,001 - $50,000 ",,None (or less than $201)
+21,COMCAST CORP COM,N/A,"$15,001 - $50,000 ",Dividends,"$201 - $1,000"
+22,COMCAST CORP BOND,N/A,"None (or less than $1,001)",Interest,"$5,001 - $15,000"
+23,CONAGRA INC COM,N/A,"$15,001 - $50,000 ",,None (or less than $201)
+24,COSTCO WHSL CORP NEW COM,N/A,"$50,001 - $100,000 ",Dividends,"$2,501 - $5,000"
+25,CROWN CASTLE INTERNATIONAL CORP REIT,N/A,"$15,001 - $50,000 ",Dividends,"$1,001 - $2,500"
+26,DEUTSCHE X TRACKERS MSCI EUROPE HEDGED,Y,"$250,001 - $500,000","Dividends, Capital Gain","$15,001 - $50,000"
+,HEDGED EQUITY FUND ETF,,,,
+27,DEUTSCHE X TRACKERS MSCI JAPAN HEDGED,Y,"$100,001 - $250,000 ","Dividends, Capital Gain","$15,001 - $50,000"
+,EQUITY FUND ETF,,,,
+28,DISCOVER FINANCIAL SERVICES COM,N/A,"$50,001 - $100,000",Dividends,"$1,001 - $2,500"
+29,DISNEY WALT CO COM,N/A,"$15,001 - $50,000",,None (or less than $201)
+30,ECOLAB INC COM,N/A,"$50,001 - $100,000",Dividends,"$1,001 - $2,500"
+31,EOG RES INC COM,N/A,"$50,001 - $100,000",Dividends,"$201 - $1,000"
+32,EXPRESS SCRIPTS HLDG CO COM,N/A,"$50,001 - $100,000",,None (or less than $201)
+33,EXTRA SPACE STORAGE INC COM,N/A,"$50,001 - $100,000",Dividends,"$1,001 - $2,500"
+34,GENERAL ELEC CO COM,N/A,"$100,001 - $250,000",Dividends,"$5,001 - $15,000"
+35,GENERAL ELECTRIC CO BOND ,N/A,"None (or less than $1,001)",Interest,"$5,001 - $15,000"
+36,GENERAL ELECTRIC CO BOND ,N/A,"None (or less than $1,001)",Captial Gain,"$201 - $1,000"
+37,GILEAD SCIENCES INC COM,N/A,"$100,001 - $250,000",Dividends,"$2,501 - $5,000"
+38,HCA HOLDINGS INC COM,N/A,"$15,001 - $50,000",Dividends,"$2,501 - $5,000"
+39,HOME DEPOT INC COM,N/A,"$50,000 - $100,000",Dividends,"$1,001 - $2,500"
+40,INTUIT INC COM ,N/A,"$50,000 - $100,000",Dividends,"$201 - $1,000"
+41,INVESCO EUROPEAN GROWTH FUND CLASSY,Y,"$250,000 - $500,000",Dividends,"$5,001 - $15,000"
+42,J P MORGAN CHASE & CO COM,N/A,"$100,001 - $250,000",Dividends,"$2,501 - $5,000"
+43,J P MORGAN CHASE & CO BOND,N/A,"None (or less than $1,001)",Interest,"$5,001 - $15,000"
+44,JARDEN CORP COM ,N/A,"$15,001 - $50,000",,None (or less than $201)
+45,JOHNSON & JOHNSON COM NIA,N/A,"$100,000 - $250,000",Dividends,"$2,501 - $5,000"
+46,KROGER CO COM ,N/A,"$50,001 - $100,000",Dividends,"$201 - $1,000"
+47,L BRANDS INC COM ,N/A,"$50,001 - $100,000",Dividends,"$5,001 - $15,000"
+48,MCKESSON HBOC INC COM ,N/A,"$100,001 - $250,000",Dividends,"$201 - $1,000"
+49,MEAD JOHNSON NUTRITION COMPANY COM,N/A,"$50,001 - $100,000",Dividends,"$1,001 - $2,500"
+50,MEDIVATION INC COM ,N/A,"$50,001 - $100,000",,None (or less than $201)
+51,MERCK & CO INC COM ,N/A,"$50,001 - $100,000",Dividends,"$2,501 - $5,000"
+52,MICROSOFT CORP COM ,N/A,"$50,001 - $100,000",Dividends,"$2,501 - $5,000"
+53,NEXTERA ENERGY INC COM NIA,N/A,"$50,001 - $100,000",Dividends,"$1,001 - $2,500"
+54,NIKE INC CL 8,N/A,"$100,001 - $250,000 ",Dividends,"$1,001 - $2,500"
+55,NORFOLK SOUTHERN CORP COM,N/A,"$50,001 - $100,000 ",Dividends,"$1,001 - $2,500"
+56,NXP SEMICONDUCTORS NV ORD,N/A,"$15,001 - $50,000.00",,None (or less than $201)
+57,PARKER HANNIFIN CORP COM,N/A,"$50,001 - $100,000",Dividends,"$1,001 - $2,500"
+58,PEPSICO INC COM,N/A,"$50,001 - $100,000",Dividends,"$2,501 - $5,000"
+59,PEPSICO INC BOND,N/A,"None (or less than $1,001)",Interest,"$2,501 - $5,000"
+60,PEPSICO INC BOND,N/A,"None (or less than $1,001)",Capital Gain,"$201 - $1,000"
+61,PFIZER INC COM,N/A,"$15,001 - $50,000",Dividends,"$1,001 - $2,500"
+62,PROCTER & GAMBLE CO COM,N/A,"$15,001 - $50,000 ",Dividends,"$1,001 - $2,500"
+63,PROCTER & GAMBLE CO BOND,N/A,"None (or less than $1,001)",Interest,"$5,001 - $15,000"
+64,PRUDENTIAL FINL INC COM,N/A,"$50,001 - $100,00",Dividends,"$2,501 - $5,000"
+65,RITE AID CORP COM,N/A,"$15,001 - $50,000 ",,None (or less than $201)
+66,ROPER TECHNOLOGIES INC COM,N/A,"$50,001 - $100,000",Dividends,"$201 - $1,000"
+67,SALESFORCE COM INC COM,N/A,"$15,001 - $50,000",,None (or less than $201)
+68,SCHLUMBERGER LTD COM COM,N/A,"$15,001 - $50,000",Dividends,"$1,001 - $2,500"
+69,SEALED AIR CORP COM NEW,N/A,"$50,001 - $100,000",Dividends,"$1,001 - $2,500"
+70,SHIRE PLC,N/A,"$15,001 - $50,000",,None (or less than $201)
+71,SMUCKER J M CO COM NEW,N/A,"$15,001 - $50,000",,None (or less than $201)
+72,T MOBILE US INC COM,N/A,"$15,001 - $50,000",,None (or less than $201)
+73,THE KRAFT HEINZ COMPANY COM,N/A,"$50,000 - $100,000",Dividends,"$2,501 - $5,000"
+74,THERMO FISHER SCIENTIFIC INC COM,N/A,"$50,001 - $100,000",Dividends,"$201 - $1,000"
+75,THERMO FISHER SCIENTIFIC INC BOND,N/A,"None (or less than $1,001)",Interest,"$5,001 - $15,000"
+76,TJX COS INC NEW COM,N/A,"$50,001 - $100,000",Dividends,"$1,001 - $2,500"
+77,TWENTY FIRST CENTURY FOX INC COM,N/A,"$15,001 - $50,000",Dividends,"$201 - $1,000"
+78,VF CORP COM,N/A,"$15,001 - $50,000",Dividends,"$1,001 - $2,500"
+79,VISA INC CL A COM,N/A,"$100,001 - $250,000",Dividends,"$201 - $1,000"
+80,WELLS FARGO & CO NEW COM,N/A,"$50,001 - $100,000",Dividends,"$2,501 - $5,000"
+81,WHITEWAVE FOODS CO A COM,N/A,"$50,001 - $100,000",Dividends,None (or less than $201)
+82,ABERDEEN GLOBAL HIGH INC-I,N/A,"None (or less than $1,001)",Dividends,"$5,001 - $15,000"
+83,ACCENTURE PLC-CL A,N/A,"None (or less than $1,001)",Dividends,"$201 - $1,000"
+84,AMERICAN EXPRESS CREDIT BOND,N/A,"None (or less than $1,001)",Interest,"$2,501 - $5,000"
+85,AMGEN INC BOND,N/A,"None (or less than $1,001)",Interest,"$2,501 - $5,000"
+86,ANADARKO PETROLEUM CORP,N/A,"None (or less than $1,001)",Dividends,"$201 - $1,000"
+87,ANHEUSER-BUSCH INBEV WOR BOND,N/A,"None (or less than $1,001)",Interest,"$2,501 - $5,000"
+88,ANTHEM INC,N/A,"None (or less than $1,001)",Dividends,"$201 - $1,000"
+89,AVAGO TECHNOLOGIES LTD,N/A,"None (or less than $1,001)",Dividends,"$201 - $1,000"
+90,BANK OF AMERICA CORP BOND,N/A,"None (or less than $1,001)",Interest,"$5,001 - $15,000"
+91,BRISTOL-MYERS SQUIBB CO,N/A,"None (or less than $1,001)",,None (or less than $201)
+92,BURLINGTN NORTH SANTA FE BOND,N/A,"None (or less than $1,001)","Interest, Capital Gains","$2,501 - $5,000"
+93,CALIFORNIA RESOURCES CORP,N/A,"None (or less than $1,001)",,None (or less than $201)
+94,CATERPILLAR FINANCIAL SE BOND,N/A,"None (or less than $1,001)",Interest,"$1,001 - $2,500"
+95,COCA-COLA CO/THE BOND,N/A,"None (or less than $1,001)","Interest, Capital Gains","$1,001 - $2,500"
+96,CVS HEALTH CORP BOND,N/A,"None (or less than $1,001)",Interest ,"$5,001 - $15,000"
+97,DICK'S SPORTING GOODS INC,N/A,"None (or less than $1,001)",Dividends,"$201 - $1,00"
+98,EXPEDIA INC,N/A,"None (or less than $1,001)","Dividends, Capital Gains","$5,001 - $15,000"
+99,FORD MOTOR CREDIT CO LLC BOND,N/A,"None (or less than $1,001)",Interest,"$2,501 - $5,000"
+100,GEORGIA POWER COMPANY BOND,N/A,"None (or less than $1,001)",Interest,"$5,001 - $15,000"
+101,GOLDMAN SACHS GROUP INC BOND,N/A,"None (or less than $1,001)",Interest,"$5,001 - $15,000"
+102,HALLIBURTON CO,N/A,"None (or less than $1,001)",Dividends,"$201 - $1,000"
+103,HEWLETT-PACKARD CO BOND,N/A,"None (or less than $1,001)",Interest,"$2,501 - $5,000"
+104,IBM CORP BOND,N/A,"None (or less than $1,001)",Interest,"$2,501 - $5,000"
+105,INTEL CORP BOND,N/A,"None (or less than $1,001)",Interest,"$1,001 - $2,500"
+106,INTL BUSINESS MACHINES CORP,N/A,"None (or less than $1,001)","Dividends, Capital Gains","$1,001 - $2,500"
+107,ISHARES MSCI PACIFIC EX JAPA,Y,"None (or less than $1,001)",Dividends,"$2,501 - $5,000"
+108,JM SMUCKER CO/THE,N/A,"None (or less than $1,001)",,None (or less than $201)
+109,LYONDELLBASELL INDU-CL A,N/A,"None (or less than $1,001)","Dividends, Capital Gains","$2,501 - $5,000"
+110,MCDONALD'S CORP BOND,N/A,"None (or less than $1,001)",Interest,"$5,001 - $15,000"
+111,MONDELEZ INTERNATIONAL BOND,N/A,"None (or less than $1,001)",Interest,"$5,001 - $15,000"
+112,MONSANTO CO,N/A,"None (or less than $1,001)","Dividends, Capital Gains","$5,001 - $15,000"
+113,MORGAN STANLEY BOND,N/A,"None (or less than $1,001)",Interest,"$5,001 - $15,000"
+114,OCCIDENTAL PETROLEUM CORP,N/A,"None (or less than $1,001)",Dividends ,"$1,001 - $2,500"
+115,PARAMETRIC EMERGING MRKTS-I,N/A,"None (or less than $1,001)",Dividends,"$201 - $1,000"
+116,PHILIP MORRIS INTERNATIONAL,N/A,"None (or less than $1,001)","Dividends, Capital Gains","$5,001 - $15,000"
+117,PIONEER NATURAL RESOURCES CO,N/A,"None (or less than $1,001)",,$None (or less than $201)
+118,REGAL BELOIT CORP,N/A,"None (or less than $1,001)",Dividends,"$201 - $1,000"
+119,SCHWAB (CHARLES) CORP,N/A,"None (or less than $1,001)",Dividends.Capital Gain,"$5,001 - $15,000"
+120,STARWOOD HOTELS & RESORTS,N/A,"None (or less than $1,001)","Dividends, Capital Gain","$15,001 - $50,000"
+121,TIME WARNER INC BOND,N/A,"None (or less than $1,001)",Interest,"$5,001 - $15,000"
+122,UNITED TECHNOLOGIES CORP BOND,N/A,"None (or less than $1,001)",Interest,"$2,501 - $5,000"
+123,US TREASURY NOTES/BONDS,N/A,"None (or less than $1,001)","Interest, Capital Gains","$1,001 - $2,500"
+124,VALERO ENERGY CORP,N/A,"None (or less than $1,001)"," Dividends, Capital Gains","$5,001 - $15,000"
+125,WACHOVIA CORP BOND,N/A,"None (or less than $1,001)",Interest,"$5,001 - $15,000"
+126,"WALT DISNEY CO, THE",N/A,"None (or less than $1,001)",Dividends,"$201 - $1,000"
+127,ACCENTURE PLC-CL A,N/A,"None (or less than $1,001)",Capital Gains,"$15,001 - $50,000"
+128,CAREFUSION CORP COM,N/A,"None (or less than $1,001)",Capital Gains,"$15,001 - $50,000"
+129,EBAY INC COMMON,N/A,"None (or less than $1,001)",Capital Gains,"$15,001 - $50,000"
+130,NPS PHARMACEUTICALS INC COM,N/A,"None (or less than $1,001)",Capital Gains,"$5,001 - $15,000"
+131,PALO ALTO NETWORKS INC COM,N/A,"None (or less than $1,001)",Capital Gains,"$15,001 - $50,000"
+132,VMWARE INC COM,N/A,"None (or less than $1,001)",Capital Gains,"$1 ,001 - $2,500"
+,DEUTSCHE ASSET & WEALT H MANAGEMENT A/C 2 BOND ACCOUNT - HOLDINGS,,,,
+1,AMERICAN EXPRESS CREDIT,N/A,"$500,001 - $1,000,000",Interest,"$5,001 - $15,000"
+2,APPLE INC,N/A,"$500,001 - $1,000,000",Interest,"$1,001 - $2,500"
+3,AT&T INC,N/A,"$500,001 - $1,000,000",Interest,$None (or less than $201)
+4,BANK OF NOVA SCOTIA,N/A,"$500,001 - $1,000,000",Interest,"$5,001 - $15,000"
+5,BERKSHIRE HATHAWAY FIN,N/A,"$500,001 - $1,000,000",Interest,"$1,001 - $2,500"
+6,BHP BILLITON FIN USA LTD,N/A,"$500,001 - $1,000,000",,$None (or less than $201)
+7,CATERPILLAR FINANCIAL SE,N/A,"$500,001 - $1,000,000",Interest,"$2,501.00 - $5,000"
+8,CHEVRON CORP,N/A,"$500,001 - $1,000,000",Interest,"$2,501 - $5,000"
+9,CITIGROUP INC,N/A,"$500,001 - $1,000,000",Interest,"$2,501 - $5,000"
+10,COMCAST CORP,N/A,"$500,001 - $1,000,000",Interest,"$5,001 - $15,000"
+11,DEUTSCHE MONEY MARKET SERIES INSTITUTION SH,N/A,"$500,001 - $1,000,000",Dividends,"$201 - $1,000"
+12,ECOLAB INC,N/A,"$500,001 - $1,000,000",,$None (or less than $201)
+13,FED HOME LN DISCOUNT NT,N/A,"$500,001 - $1,000,000",,$None (or less than $201)
+14,FORD MTR CR CO NT,N/A,"$500,001 - $1,000,000",Interest,"$15,001 - $50,000"
+15,GOLDMAN SACHS GROUP INC SR GLOBAL NT,N/A,"$500,001 - $1,000,000",Interest,"$15,001 - $50,000"
+16,GOOGLE INC,N/A,"$500,001 - $1,000,000",Interest,"$5,001 - $15,000"
+17,lBM CORP,N/A,"$500,001 - $1,000,000",Interest,"$5,001 - $15,000"
+18,INTL BK RECON & DEVELOP,N/A,"$500,001 - $1,000,000",,$None (or less than $201)
+19,J P MORGAN CHASE & CO,N/A,"$500,001 - $1,000,000",Interest,"$15,001 - $50,000"
+20,JOHN DEERE CAPITAL CORP,N/A,"$500,001 - $1,000,000",Interest,"$2,501 - $5,000"
+21,MORGAN STANLEY,N/A,"$500,001 - $1,000,000",Interest,"$5,001 - $15,000"
+22,OCCIDENTAL PETROLEUM CORP,N/A,"$500,001 - $1,000,000",Interest,"$5,001 - $15,000"
+23,PEPSICO INC,N/A,"$500,001 - $1,000,000",,$None (or less than $201)
+24,ROYAL BANK OF CANADA,N/A,"$1,000,001 - $5,000,000",,$None (or less than $201)
+25,TORONTO DOMINION BANK,N/A,"$500,001 - $1,000,000",Interest,"$1 ,001 - $2,500"
+26,TOTAL CAPITAL INTL SA,N/A,"$500,001 - $1,000,000",Interest,"$1 ,001 - $2,500"
+27,TOYOTA MOTOR CREDIT CORP,N/A,"$500,001 - $1,000,000",Interest,"$2,501 - $5,000"
+28,UNITED STATES TREAS BILLS/NOTES,N/A,"$1,000,001 - $5,000,000",Interest,"$50,001 - $100,000"
+29,WELLS FARGO COMPANY,N/A,"$500,001 - $1,000,000",Interest,"$5,001 - $15,000"
+30,THERMO FISHER SCIENTIFIC,N/A,"$500,001 - $1,000,000",Interest,"$2,501 - $5,000"
+31,BANK OF AMERICA CORP,N/A,"None (or less than $1,001)",Interest,"$15,001 - $50,000"
+32,BP CAPITAL MARKETS PLC,N/A,"None (or less than $1,001)",Interest,"$5,001 - $15,000"
+33,CAPITAL ONE FINANCIAL CO,N/A,"None (or less than $1,001)",Interest,"$1,001 - $2,500"
+34,COCA-COLA CO/THE,N/A,"None (or less than $1,001)",Interest,"$5,001 - $15,000"
+35,CONAGRA FOODS INC,N/A,"None (or less than $1,001)",Interest,"$201 - $1 ,000"
+36,FANNIE MAE,N/A,"None (or less than $1,001)",Interest,"$2,501 - $5,000"
+37,GENERAL ELEC CAP CORP,N/A,"None (or less than $1,001)",Interest,"$15,001 - $50,000"
+38,GLAXOSMITHKLINE CAPITAL,N/A,"None (or less than $1,001)",Interest,"$201 - $1,000"
+39,HERSHEY COMPANY,N/A,"None (or less than $1,001)",Interest,"$5,001 - $15,000"
+40,HOME DEPOT INC,N/A,"None (or less than $1,001)",Interest,"$15,001 - $50,000"
+41,HSBC FINANCE CORP,N/A,"None (or less than $1,001)",Interest,"$5,001 - $15,000"
+42,KELLOGG CO,N/A,"None (or less than $1,001)",Interest,"$1 ,001 - $2,500"
+43,KROGER CO/THE,N/A,"None (or less than $1,001)",Interest,"$15,001 - $50,000"
+44,MA WTR POLLUTN-17B,N/A,"None (or less than $1,001)",Interest,"$1,001 - $2,500"
+45,MCDONALD'S CORP,N/A,"None (or less than $1,001)",Interest,"$2,501 - $5,000"
+46,MEDCO HEALT H SOLUTIONS,N/A,"None (or less than $1,001)",Interest,"$2,501 - $5,000"
+47,MICROSOFT CORP,N/A,"None (or less than $1,001)",Interest,"$2,501 - $5,000"
+48,NBCUNIVERSAL MEDIA LLC,N/A,"None (or less than $1,001)",Interest,"$2,501 - $5,000"
+49,PHILLIPS 66,N/A,"None (or less than $1,001)",Interest,"$1,001 - $2,500"
+50,PROCTER & GAMBLE CO/THE,N/A,"None (or less than $1,001)",Interest,"$1,001 - $2,500"
+51,PROVINCE OF QUEBEC,N/A,"None (or less than $1,001)",Interest,"$15,001 - $50,000"
+52,REYNOLDS AMERICAN INC,N/A,"None (or less than $1,001)",Interest,"$2,501 - $5,000"
+53,SANOFI,N/A,"None (or less than $1,001)",Interest,"$5,001 - $15,000"
+54,SHELL INTERNATIONAL AN,N/A,"None (or less than $1,001)",Interest,"$15,001 - $50,000"
+55,TRANS-CANADA PIPELINES,N/A,"None (or less than $1,001)",Interest,"$2,501 - $5,000"
+56,UNITEDHEALTH GROUP INC,N/A,"None (or less than $1,001)",Interest,"$2,501 - $5,000"
+57,VERIZON COMMUNICATIONS,N/A,"None (or less than $1,001)",Interest,"$5,001 - $15,000"
+58,WAL-MART STORES INC,N/A,"None (or less than $1,001)",Interest,"$5,001 - $15,000"
+59,WESTPAC BANKING CORP,N/A,"None (or less than $1,001)",Interest,"$5,001 - $15,000"
+,JP MORGAN CLEARING CORP - BROKERAGE ACCOUNT- HOLDINGS,,,,
+1,"APPLE, INC",N/A,"$500,001 - $1,000,000",Dividends,"$15,001 - $50,000"
+2,CATERPILLER INC,N/A,"$100,001 - $250,000",Dividends,"$5,001 - $15,000"
+3,MICROSOFT CORP,N/A,"$250,001 - $500,000",Dividends,"$5,001 - $15,000"
+4,PEPSICO INC,N/A,"$100,001 - $250,000",Dividends,"$5,001 - $15,000"
+5,GLOBAL FASHION TECHNOLOGIES,N/A,"$1,001 - $15,000",,$None (or less than $201)
+6,HALLIBURTON COMPANY,N/A,"$50,001 - $100,000",Dividends,"$1,001 - $2,500"
+7,EXXON MOBIL CORP,N/A,"$50,001 - $100,000",Dividends,"$2,501 - $5,000"
+8,PHILLIPS 66 COM,N/A,"$100,001 - $250,000",Dividends,"$2,501 - $5,000"
+,Family Trust 1 *,,,"$5,001","$5,001 - $15,000"
+1,FMI LARGE CAP FD,Y,"$1,001 - $15,000",,
+2,JPM US LARGE CAP CORE PLUS FD-SEL,Y,"$15,001 - $50,000",,
+3,NEUBERGER BER MU/C OPP-INS,Y,"$15,001 - $50,000",,
+4,PRIMECAP ODYSSEY STOCK FD,Y,"$15,001 - $50,000",,
+5,SPDR S&P 500 ETF TRUST,Y,"$15,001 - $50,000",,
+6,ISHARES RUSSELL MIDCAP INDEX FUND,Y,"$15,001 - $50,000",,
+7,JPM MID CAP VALUE FD- INSTL,Y,"$1,001 - $15,000",,
+8,ARTISAN INTL VALUE FD-ADV,Y,"$1,001 - $15,000",,
+9,DEUTSCHE X-TRACKERS MSC! EAF,Y,"$1,001 - $15,000",,
+10,DODGE & COX INTL STOCK FD,Y,"$1,001 - $15,000",,
+11,ISHARES MSCI EAFE INDEX FUND,Y,"$1,001 - $15,000",,
+12,VANGUARD FTSE EUROPE ETF,Y,"$1,001 - $15,000",,
+13,BROWN ADV JAPAN ALPHA OPP-IS,Y,"$1,001 - $15,000",,
+14,JPM GLBL RES ENH INDEX FD-SEL,Y,"$15,001 - $50,000",,
+15,JPM TAX FREE MMKT INST SWEEP FD#840,N/A,"$1,001 - $15,000",,
+16,JPM INTERM TAX FREE BO FC- INSTL,Y,"$1,001 - $15,000",,
+17,JPM SH INT MUNI BO FD- INSTL,Y,"$15,001 - $50,000",,
+18,BLACKROCK HiGH YIELD PT- BLAC,Y,"$1 ,001 - $15,000",,
+19,DOUBLELINE TOTL RET BND-1,Y,"$1,001 - $15,000",,
+20,PRUDENTIAL TOTAL RETRN BND-Z,Y,"$1,001 - $15,000",,
+21,VANGUARD INTM TRM INVG-ADM,Y,"$1,001 - $15,000.00",,
+22,EATON VANCE GLOBAL MACRO-I,Y,"$1,001 - $15,000",,
+23,EQUINOX FDS TR IPM SYSTMATC I,Y,"$1,001 - $15,000",,
+24,GOLDMAN SACHS STRAT INC-INST,Y,"$1,001 - $15,000",,
+25,GOTHAM ABSOLUTE RETURN-INS,Y,"$1,001 - $15,000",,
+26,MATTHEWS PACIFIC TI GER FD-I S,Y,"None (or less than $1,001)",,
+27,ASTON RIVER RD DIV ALL CAP-I,Y,"None (or less than $1,001)",,
+28,JPM MID  CAP VALUE FD -INSTL,Y,"None (or less than $1,001)",,
+,"Dividends, Capital Family Trust 2*",,,"Dividends, Capital Gains","$5,001 - $15,000"
+l,FMI LARGE CAP y FD,Y,"$15,001 - $50,000",,
+2,JPM US LARGE CAP CORE PLUS FD-SEL y,Y,"$15,001 - $50,000",,
+3,NEUBERGER BER MU/C OPP-INS,Y,"$15,001 - $50,000",,
+4,PRIMECAP ODYSSEY STOCK  FD,Y,"$15,001 - $50,000",,
+5,SPDR S&P 500 ETF TRUST,Y,"$15,001 - $50,000",,
+6,ISHARES RUSSELL MIDCAP INDEX FUND,Y,"$15,001 - $50,000",,
+7,JPM MID CAP VALUE FD- INSTL,y,"$15,001 - $50,000",,
+8,ARTISAN INTL VALUE FD-ADV,Y,"$15,001 - $50,000",,
+9,DEUTSCHE X-TRACKERS MSCI EAF,Y,"$15,001 - $50,000",,
+10,DODGE & COX INTL STOCK FD,Y,"$1,001 - $15,000",,
+11,ISHARES MSCI EAFE INDEX FUND,Y,"$15,001 - $50,000",,
+12,VANGUARD FTSE EUROPE ETF,Y,"$1,001 - $15,000",,
+13,BROWN ADV JAPAN ALPHA OPP-IS,Y,"$1,001 - $15,000",,
+14,JPM GLBL RES ENH INDEX FD-SEL,Y,"$15,001 - $50,000",,
+15,JPM TAX FREE MMKT INST SWEEP FD #840,NIA,"$15,001 - $50,000",,
+16,JPM INTERM TAX FREE 80 FC- INSTL,Y,"$1,001 - $15,000",,
+17,JPM SH INT MUNI 80 FD- INSTL,Y,"$15,001 - $50,000",,
+18,BLACKROCK HIGH YIELD PT- BLAC,Y,"$1,001 - $15,000",,
+19,DOUBLELINE TOTL RET BND-1,Y,"$15,001 - $50,000",,
+20,PRUDENTIAL TOTAL RETRN BND-Z,Y,"$15,001 - $50,000",,
+21,VANGUARD INTM TRM INV G-ADM,Y,"$1,001 - $15,000",,
+22,EATON VANCE GLOBAL MACRO-I,Y,"$1,001 - $15,000",,
+23,EQUINOX  FDS TR IPM SYSTMATC I,Y,"$1,001 - $15,000",,
+24,GOLDMAN SACHS STRAT INC-INST,Y,"$1,001 - $15,000",,
+25,GOTHAM ABSOLUTE RETURN-INS,Y,"$1,001 - $15,000",,
+26,MATTHEWS PACIFIC TIGER FD-IS,Y,"None (or less than $1,001)",,
+27,ASTON RIVER RD DIV ALL CAP-I,Y,"None (or less than $1,001)",,
+28,JPM MID CAP VALUE FD -INSTL,Y,"None (or less than $1,001)",,
+,Family Trust 3*,,,"Dividends, Capital Gains","$5,001 - $15,000"
+l,FMI LARGE CAP FD,Y,"$1,001 - $15,000",,
+2,JPM US LARGE CAP CORE PLUS FD-SEL,Y,"$15,001 - $50,000",,
+3,NEUBERGER BER MU/COPP-INS,Y,"$15,001 - $50,000",,
+4,PRIMECAP ODYSSEY STOCK FD,Y,"$15,001 - $50,000",,
+5,SPDR S&P 500 ETF TRUST,Y,"$50,001 - $100,000",,
+6,!SHARES RUSSELL MIDCAP INDEX FUND,Y,"$15,001 - $50,000",,
+7,JPM MIO CAP VALUE FD- INSTL,Y,"$15,001 - $50,000",,
+8,ARTISAN lNTL VALUE FD-ADV,Y,"$15,001 - $50,000",,
+9,ASTON/PICTET INTERNATIONAL-I,Y,"$1,001 - $15,000",,
+10,DEUTSCHE X-TRACKERS MSC! EAF,Y,"$1,001 - $15,000",,
+11,DODGE & COX INTL STOCK FD,Y,"$15,001 - $50,000",,
+12,GS NOTE OF NOTES EAFE BSKT 2/13/17,N/A,"$1,001 - $15,000",,
+13,ISHARES MSCI EAFE INDEX FUND,Y,"$15,001 - $50,000",,
+14,VANGUARD FTSE EUROPE ETF,Y,"$1,001 - $15,000",,
+15,BROWN ADV JAPAN ALPHA OPP-IS,Y,"$1,001 - $15,000",,
+16,JPM GLBL RES ENH INDEX FD-SEL,Y,"$15,001 - $50,000",,
+17,EATON VANCE GLOBAL MACRO-I,Y,"$1,001 - $15,000",,
+18,EQUINOX FDS TR IPM SYSTMATC I,Y,"$1,001 - $15,000",,
+19,GOLDMAN SACHS STRAT INC-INST,Y,"$1,001 - $15,000",,
+20,GOTHAM ABSOLUTE RETURN-INS,Y,"$1,001 - $15,000",,
+21,JPM TAX FREE MMKT INST SWEEP FD,N/A,"$15,001 - $50,000",,
+22,JPM INTERM TAX FREE BO FC- INSTL,Y,"$15,001 - $50,000",,
+23,JPM SH INT MUNI BO FD- INSTL,Y,"$15,001 - $50,000",,
+24,BLACKROCK HIGH YIELD PT- BLAC,Y,"$1,001 - $15,000",,
+25,DOUBLELINE TOTL RET BND-1,Y,"$15,001 - $50,000",,
+26,PRUDENTIAL TOTAL RETRN BND-Z,Y,"$15,001 - $50,000",,
+27,VANGUARD INTM TRM INV G-ADM,Y,"$1,001 - $15,000",,
+28,MATTHEWS  PA CIFIC TI GER FD-IS,Y,"0$ - $1,001",,
+29,ASTON  RIVER RD DIV ALL CAP-I,Y,"0$ - $1,001",,
+30,JPM MID CAP  VALUE FD -INSTL,Y,"0$ - $1,001",,
+,"The Fred C. Trump December 16, 1976 Trust- F/8/0 Donald J. Trump",,,,
+1,JP MORGAN CHASE - SAVINGS ACCOUNT,N/A,"$1,000,001 - $5,000,000",Interest,"$1,001 - $2,500"
